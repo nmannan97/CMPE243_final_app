@@ -3,11 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Demo from './geolocate.test';
+import demo from './geolocate';
 
-import geolocated from "./geolocate"
-
+const element = new demo()
 ReactDOM.render(<App />, 
-                <geolocated/>,
+                <Demo/>,
+                //element,
                 document.getElementById('root')
 );
 
