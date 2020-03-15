@@ -7,11 +7,11 @@
     "runtime-main.js.map": "/static/react/js/runtime-main.7ca781aa.js.map",
     "js/2.58a5c625.chunk.js": "/static/react/js/2.58a5c625.chunk.js",
     "js/2.58a5c625.chunk.js.map": "/static/react/js/2.58a5c625.chunk.js.map",
-    "../../template/index.html": "/static/react/../../template/index.html",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
     "css/main.d1b05096.chunk.css.map": "/static/react/css/main.d1b05096.chunk.css.map",
     "js/2.58a5c625.chunk.js.LICENSE.txt": "/static/react/js/2.58a5c625.chunk.js.LICENSE.txt",
     "media/logo.svg": "/static/react/media/logo.5d5d9eef.svg",
-    "precache-manifest.6cbd2334f68713a585c64fa878ad0895.js": "/static/react/precache-manifest.6cbd2334f68713a585c64fa878ad0895.js",
+    "precache-manifest.188979691df578b8b410ed3f124396a4.js": "/static/react/precache-manifest.188979691df578b8b410ed3f124396a4.js",
     "service-worker.js": "/static/react/service-worker.js"
   },
   "entrypoints": [
