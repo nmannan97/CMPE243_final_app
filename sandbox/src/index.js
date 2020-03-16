@@ -8,7 +8,6 @@ import demo from './geolocate';
 
 const element = new demo()
 ReactDOM.render(<App />, 
-                <Demo/>,
                 //element,
                 document.getElementById('root')
 );
