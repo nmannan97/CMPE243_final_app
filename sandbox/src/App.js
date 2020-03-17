@@ -4,12 +4,13 @@ import './App.css';
 import React, { Component } from 'react';
 import HideableText from './HideableText';
 import AutoCompleteText from './AutoCompleteText';
+import input from './input';
 
 class App extends Component{
-  render(){
+  render(){ 
     return(
       <div className="App">
-
+        <input />
     </div>
     );
   }
